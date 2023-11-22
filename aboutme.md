@@ -1,16 +1,27 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Topics
+subtitle: Aims and Topics
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+AETOC workshop deals with all the topics related to recent developments in the application of electrochemical techniques to the study and monitoring of organic coatings, as well as novel hybrid (i/o) sol-gel and composite coatings with self-healing and protective properties. Topics of particular interest include:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Electrochemical studies of organic coatings;
 
-What else do you need?
+- Electrochemical studies of hybrid (i/o) sol-gel and composite coatings
 
-### My story
+- Electrochemical studies of surface conversion layers to improve paint adhesion and durability
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Electrochemical characterisation of smart organic layers
+
+- Electrochemical techniques to assess the properties of green and sustainable materials for novel organic coatings;
+
+- Service life assessments thorough electrochemical methods;
+
+- Combination of electrochemical techniques to study corrosion inhibitors for paints;
+
+- Novel electrochemical methods to study sol-gel based and organic coatings;
+
+- Electrochemical sensors to monitor organic coatings degradation;
+
+- Modelling of electrochemical properties of organic coatings.
