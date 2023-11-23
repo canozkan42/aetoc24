@@ -20,4 +20,4 @@ We sincerely do hope to meet you in the fruitful, inspiring and friendly atmosph
 {: .box-success}
 # Call for abstracts [open]({{ site.baseurl }}{% link attendance.md %})!
 
-Abstracts should be **sent** by email to aetoc2024@tudelft.nl by **Dec. 15, 2023**. **Acceptance notification** will be communicated within **Dec. 20, 2023**.
+Abstracts should be **sent** by email to [aetoc2024@tudelft.nl](mailto:aetoc2024@tudelft.nl) by **Dec. 15, 2023**. **Acceptance notification** will be communicated within **Dec. 20, 2023**.
