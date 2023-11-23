@@ -22,5 +22,6 @@ Arjan Mol
 Santiago Garcia Espallargas  
 Can Özkan  
 Minouska Eduardo-Murray  
-
+TU Delft Department of Materials Science and Engineering
+TU Delft Faculty of Aerospace Engineering
 Communication and Events Office  
