@@ -13,7 +13,7 @@
 title: AETOC24
 
 # Your name to show in the footer
-author: TU Delft
+author: Can Özkan
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -38,7 +38,7 @@ navbar-links:
 avatar: "/assets/img/windmill.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
