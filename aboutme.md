@@ -5,7 +5,10 @@ title: Topics
 
 AETOC workshop deals with all the topics related to recent developments in the application of electrochemical techniques to the study and monitoring of organic coatings, as well as novel hybrid (i/o) sol-gel and composite coatings with self-healing and protective properties.
 
-<img style="float: right;" src="/assets/img/coatingPlane.jpg">
+<div style="text-align:center">
+  <img src="/assets/img/coatingPlane.jpg" alt="Active coating system on an airplane">
+</div>
+
 
 Topics of particular interest include:
 
