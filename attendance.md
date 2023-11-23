@@ -4,7 +4,7 @@ title: Attendance
 ---
 
 # Call for Abstracts
-Abstracts should be **sent** by email to aetoc2024@tudelft.nl by **Dec. 15, 2023**.
+Abstracts should be **sent** by email to [aetoc2024@tudelft.nl](mailto:aetoc2024@tudelft.nl) by **Dec. 15, 2023**.
 
 **Acceptance notification** will be communicated within **Dec. 20, 2023**.
 
