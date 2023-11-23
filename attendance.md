@@ -27,22 +27,22 @@ AETOC 2024 has reserved a limited number of rooms at the workshop venue hotel (H
 
 The registration fee includes:
 
-3-nights accommodation at Hotel Zuiderduin\*\*\*\*, from 28 to 31 May   
-Lunches on 29, 30, 31 May  
-Dinners on 28 and 29 May  
-Gala Dinner on 30 May  
-Coffee breaks  
-Social activities  
-Collection of Abstracts  
-Participant kit  
+* 3-nights accommodation at Hotel Zuiderduin\*\*\*\*, from 28 to 31 May   
+* Lunches on 29, 30, 31 May  
+* Dinners on 28 and 29 May  
+* Gala Dinner on 30 May  
+* Coffee breaks  
+* Social activities  
+* Collection of Abstracts  
+* Participant kit  
 
 Accompanying person: please be aware that in the registration form will not be possible to add any accompanying persons. Upon registration, please contact directly the hotel. The Delft University of Technology is not allowed to manage the payment of the accompanying person.
 
 ### Please take due notice of the following deadlines:  
 
-* Abstract Submission:  15 Dec. 2023  
-* Abstract Acceptance Notification: 20 Dec. 2023  
-* Registration: 20 Dec. 2023 - 15 Feb. 2024  
-* Publication of Final program: 01 Mar. 2024
+Abstract Submission:  15 Dec. 2023  
+Abstract Acceptance Notification: 20 Dec. 2023  
+Registration: 20 Dec. 2023 - 15 Feb. 2024  
+Publication of Final program: 01 Mar. 2024
 
 Kindly notice: no onsite registration or payment will be accepted.   
