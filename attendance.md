@@ -10,7 +10,7 @@ Acceptance notification will be communicated within Dec. 20, 2023.
 
 We kindly request to use only the abstract template available below.
 
-:pencil2: [Abstract template](./Abstract_Template_AETOC2024.docx) (DOCX) 
+✏️ [Abstract template](./Abstract_Template_AETOC2024.docx) (DOCX) 
 
 > Thanks to the kind support of the Editorial Board, all communications presented at the meeting will have the opportunity of submitting to a special issue of [Progress in Organic Coatings](https://www.sciencedirect.com/journal/progress-in-organic-coatings).
 
