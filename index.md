@@ -16,3 +16,7 @@ Egmond aan Zee, nestled on the North Sea coast of the Netherlands 30 km away fro
 The meeting falls under the auspices of the European Federation of Corrosion - Working Party 14 -Coatings. This workshop has always provided opportunities for the delegates to exchange new ideas, to establish research relations as well as to find global partners for future collaborations. The language of the workshop will be English.
 
 We sincerely do hope to meet you in the fruitful, inspiring and friendly atmosphere that has always distinguished AETOC from the other scientific conferences.
+
+{: .box-success}
+# Call for Abstract open!
+Abstracts should be **sent** by email to aetoc2024@tudelft.nl by **Dec. 15, 2023**. **Acceptance notification** will be communicated within **Dec. 20, 2023**.
