@@ -18,5 +18,6 @@ The meeting falls under the auspices of the European Federation of Corrosion - W
 We sincerely do hope to meet you in the fruitful, inspiring and friendly atmosphere that has always distinguished AETOC from the other scientific conferences.
 
 {: .box-success}
-# Call for Abstract open!
+# Call for abstracts [open]({{ site.baseurl }}{% link attendance.md %})!
+
 Abstracts should be **sent** by email to aetoc2024@tudelft.nl by **Dec. 15, 2023**. **Acceptance notification** will be communicated within **Dec. 20, 2023**.
