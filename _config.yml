@@ -20,9 +20,9 @@ author: Copyright © Can Özkan
 ###############################################
 
 navbar-links:
-  Topics: "aboutme"
+  Topics: "topics"
   Programme: "programme"
-  Registration: "attendance"
+  Registration: "registration"
   Committee: "committee"
   Contact: "contact"
   # Resources:
