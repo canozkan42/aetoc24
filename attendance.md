@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Attendance
+title: Registration
 ---
 
 # Call for Abstracts
-Abstracts should be **sent** by email to [aetoc2024@tudelft.nl](mailto:aetoc2024@tudelft.nl) by **Dec. 15, 2023**.
+Abstracts should be **sent** by email to [aetoc2024@tudelft.nl](mailto:aetoc2024@tudelft.nl) by **Feb. 16, 2024**.
 
-**Acceptance notification** will be communicated within **Dec. 20, 2023**.
+**Acceptance notification** will be communicated within **Mar. 8, 2024**.
 
 We kindly request to use only the abstract template available below.
 
@@ -19,9 +19,9 @@ We kindly request to use only the abstract template available below.
 ### Registration fees
 **995,00€** (VAT included)
 
-AETOC 2024 has reserved a limited number of rooms at the workshop venue hotel (Hotel Zuiderduin\*\*\*\*). We highly recommend that you register at your earliest convenience to reserve the room.
+AETOC 2024 has reserved a limited number of rooms at the workshop venue hotel (Hotel Zuiderduin\*\*\*\*). We highly recommend that you register at your earliest convenience to secure a room.
 
-**The registration form will be online from 20 December.**
+**The registration form will be online from 16 February.**
 
 <a href="https://www.aanmelder.nl/en/" target="_blank" style="background-color: #4AA3D2; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Registration</a>
 
@@ -40,9 +40,9 @@ Accompanying person: please be aware that in the registration form will not be p
 
 ### Please take due notice of the following deadlines:  
 
-Abstract Submission:  15 Dec. 2023  
-Abstract Acceptance Notification: 20 Dec. 2023  
-Registration: 20 Dec. 2023 - 15 Feb. 2024  
-Publication of Final program: 01 Mar. 2024
+Abstract Submission:  16 Feb. 2024  
+Abstract Acceptance Notification: 8 Mar. 2024  
+Registration: 16 Feb. 2023 - 31 Mar. 2024  
+Publication of Final Program: 15 Apr. 2024
 
 Kindly notice: no onsite registration or payment will be accepted.   
