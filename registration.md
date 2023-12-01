@@ -8,6 +8,9 @@ Abstracts should be **sent** by email to [aetoc2024@tudelft.nl](mailto:aetoc2024
 
 **Acceptance notification** will be communicated within **Mar. 8, 2024**.
 
+<blockquote style="color: gray;">Contact us if the deadlines are too tight or you or if you want to attend without presenting.</blockquote>
+
+
 We kindly request to use only the abstract template available below.
 
 ✏️ [Abstract template](./Abstract_Template_AETOC2024.docx){:target="_blank"} (DOCX) 
