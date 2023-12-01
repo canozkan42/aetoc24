@@ -22,5 +22,5 @@ Prof. Santiago Garcia <sup>2</sup> <br>
 Can Özkan  <sup>1</sup> <br>
 Minouska Eduardo-Murray <sup>1</sup> <br>
 
-<sup>1</sup> TU Delft Faculty of Mechanical Engineering, Department of Materials Science and Engineering <br>
-<sup>2</sup> TU Delft Faculty of Aerospace Engineering, Department of Aerospace Materials and Structures </p>
+<sup>1</sup> <small>TU Delft Faculty of Mechanical Engineering, Department of Materials Science and Engineering</small><br>
+<sup>2</sup> <small>TU Delft Faculty of Aerospace Engineering, Department of Aerospace Materials and Structures</small></p>
