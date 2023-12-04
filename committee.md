@@ -8,7 +8,9 @@ title: Committee
 ### Scientific Committee
 
 Michele Fedel, University of Trento, Italy  
-Mikhail Zheludkevich, Hereon, Germany  
+Mikhail Zheludkevich, Helmholtz-Zentrum Hereon, Germany  
+Tom Hauffman, Vrije Universiteit Brussel, Belgium  
+Nadine Pebere, CNRS University of Toulouse, France  
 Joerg Vogelsang, Sika Technology AG, Switzerland  
 Marjorie Olivier, University of Mons, Belgium   
 Carmen Pérez Pérez, University of Vigo, Spain  
