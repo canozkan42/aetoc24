@@ -22,7 +22,7 @@ We kindly request to use only the abstract template available below.
 ### Registration fees
 **995,00€** (VAT included)
 
-AETOC 2024 has reserved a limited number of rooms at the workshop venue hotel (Hotel Zuiderduin\*\*\*\*). We highly recommend that you register at your earliest convenience to secure a room.
+AETOC 2024 has reserved a limited number of rooms at the workshop venue hotel [Strandhotel Golfzang](https://www.golfzang.nl/nl/){:target="_blank"}. We highly recommend that you register at your earliest convenience to secure a room.
 
 **The registration form will be online from 16 February.**
 
@@ -30,7 +30,7 @@ AETOC 2024 has reserved a limited number of rooms at the workshop venue hotel (H
 
 The registration fee includes:
 
-* 3-nights accommodation at Hotel Zuiderduin\*\*\*\*, from 28 to 31 May   
+* 3-nights accommodation at Strandhotel Golfzang, from 28 to 31 May   
 * Lunches on 29, 30, 31 May  
 * Dinners on 28 and 29 May  
 * Gala Dinner on 30 May  
