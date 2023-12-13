@@ -22,4 +22,14 @@ The meeting falls under the auspices of the European Federation of Corrosion - W
 
 We sincerely hope meeting you in the fruitful, inspiring and friendly atmosphere that has always distinguished AETOC from the other scientific conferences.
 
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://www.tudelft.nl/">
+    <img src="./assets/img/tud_logo.jpg" alt="TUD logo" style="width: 48%;">
+  </a>
+  <a href="https://www.elsevier.com/">
+    <img src="./assets/img/Elsevier_logo.png" alt="Elsevier logo" style="width: 48%;">
+  </a>
+</div>
+
+
 
