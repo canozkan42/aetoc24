@@ -36,10 +36,10 @@ We sincerely hope meeting you in the fruitful, inspiring and friendly atmosphere
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://www.tudelft.nl/" target="_blank" style="flex: 1;">
-    <img src="./assets/img/tud_logo.jpg" alt="TUD logo" style="height: 200px; width: auto;">
+    <img src="./assets/img/tud_logo.jpg" alt="TUD logo" style="height: 200px;">
   </a>
   <a href="https://www.elsevier.com/" target="_blank" style="flex: 1;">
-    <img src="./assets/img/Elsevier_logo.png" alt=""Elsevier logo" style="height: 200px; width: auto;">
+    <img src="./assets/img/Elsevier_logo.png" alt=""Elsevier logo" style="height: 200px">
   </a>
 </div>
 
