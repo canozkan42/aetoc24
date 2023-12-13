@@ -20,3 +20,14 @@ Topics of particular interest include:
 *  Novel electrochemical methods to study sol-gel based and organic coatings;
 *  Electrochemical sensors to monitor organic coatings degradation;
 *  Modelling of electrochemical properties of organic coatings.
+
+
+<p align="center">
+  <a href="https://www.tudelft.nl/" target="_blank">
+    <img alt="Logo TUD" src="./assets/img/tud_logo.jpg" height="100px">
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.elsevier.com/" target="_blank">
+    <img alt="Logo Elsevier" src="./assets/img/Elsevier_logo.png" height="100px">
+  </a>
+</p>
