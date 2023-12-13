@@ -26,3 +26,13 @@ Minouska Eduardo-Murray <sup>1</sup> <br><br>
 
 <small><sup>1</sup> TU Delft Faculty of Mechanical Engineering, Department of Materials Science and Engineering</small><br>
 <small><sup>2</sup> TU Delft Faculty of Aerospace Engineering, Department of Aerospace Materials and Structures</small></p>
+
+<p align="center">
+  <a href="https://www.tudelft.nl/" target="_blank">
+    <img alt="Logo TUD" src="./assets/img/tud_logo.jpg" height="100px">
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.elsevier.com/" target="_blank">
+    <img alt="Logo Elsevier" src="./assets/img/Elsevier_logo.png" height="100px">
+  </a>
+</p>
