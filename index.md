@@ -18,16 +18,20 @@ AETOC workshop has been organized every two years and took place previously in V
 
 Egmond aan Zee, nestled on the North Sea coast of the Netherlands 30 km away from Amsterdam, boasts a picturesque seaside setting with sandy beaches and historic charm, offering visitors a tranquil escape enriched by its iconic lighthouse and proximity to the beautiful dunes of the North Holland Dune Reserve.
 
-The meeting falls under the auspices of the European Federation of Corrosion - Working Party 14 -Coatings. This workshop has always provided opportunities for the delegates to exchange new ideas, to establish research relations as well as to find global partners for future collaborations. The language of the workshop will be English.
+The meeting falls under the auspices of the European Federation of Corrosion - Working Party 14 -Coatings. This workshop has always provided opportunities for the delegates to exchange new ideas, establish research relations, and find global partners for future collaborations. The language of the workshop will be English.
 
-We sincerely hope meeting you in the fruitful, inspiring and friendly atmosphere that has always distinguished AETOC from the other scientific conferences.
-
+We sincerely hope to meet you in the fruitful, inspiring, and friendly atmosphere that has always distinguished AETOC from the other scientific conferences.
 
 <p align="center">
-  <img alt="Logo 1" src="./assets/img/tud_logo.jpg" height="200px">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Logo 2" src="./assets/img/Elsevier_logo.png" height="200px">
+  <a href="https://www.tudelft.nl/" target="_blank">
+    <img alt="Logo TUD" src="./assets/img/tud_logo.jpg" height="100px">
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.elsevier.com/" target="_blank">
+    <img alt="Logo Elsevier" src="./assets/img/Elsevier_logo.png" height="100px">
+  </a>
 </p>
+
 
 
 
