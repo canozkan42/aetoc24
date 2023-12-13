@@ -49,3 +49,13 @@ Registration: 16 Feb. 2023 - 31 Mar. 2024
 Publication of Final Program: 15 Apr. 2024
 
 Kindly notice: no onsite registration or payment will be accepted.   
+
+<p align="center">
+  <a href="https://www.tudelft.nl/" target="_blank">
+    <img alt="Logo TUD" src="./assets/img/tud_logo.jpg" height="100px">
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.elsevier.com/" target="_blank">
+    <img alt="Logo Elsevier" src="./assets/img/Elsevier_logo.png" height="100px">
+  </a>
+</p>
