@@ -29,7 +29,7 @@ Full scientific programme will be released shortly before conference.
 
 <p align="center">
   <a href="https://www.tudelft.nl/" target="_blank">
-    <img alt="Logo TUD" src="https://aetoc24.com/assets/img/tud_logo.jpg" height="100px">
+    <img alt="Logo TUD" src="https://www.aetoc24.com/assets/img/tud_logo.jpg" height="100px">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.elsevier.com/" target="_blank">
