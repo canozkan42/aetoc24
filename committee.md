@@ -20,9 +20,10 @@ Fátima Montemor, University of Lisbon, Portugal
 ### Local Committee
 
 <p>Prof. Arjan Mol <sup>1</sup> <br>
-Prof. Santiago Garcia <sup>2</sup> <br> 
+Prof. Santiago Garcia <sup>2</sup> <br>
 Can Özkan  <sup>1</sup> <br>
-Minouska Eduardo-Murray <sup>1</sup> <br><br>
+Minouska Eduardo-Murray <sup>1</sup> <br>
+Deborah Dongor <sup>1</sup> <br><br>  
 
 <small><sup>1</sup> TU Delft Faculty of Mechanical Engineering, Department of Materials Science and Engineering</small><br>
 <small><sup>2</sup> TU Delft Faculty of Aerospace Engineering, Department of Aerospace Materials and Structures</small></p>
