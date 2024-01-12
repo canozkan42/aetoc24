@@ -26,7 +26,7 @@ AETOC 2024 has reserved a limited number of rooms at the workshop venue hotel [S
 
 **The registration form will be online from 16 February.**
 
-<a href="https://www.aanmelder.nl/en/" target="_blank" style="background-color: #4AA3D2; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Registration</a>
+<a href="https://www.aanmelder.nl/aetoc2024workshop" target="_blank" style="background-color: #4AA3D2; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Registration</a>
 
 The registration fee includes:
 
