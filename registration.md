@@ -4,7 +4,7 @@ title: Registration
 ---
 
 # Call for Abstracts
-Abstracts should be **sent** by email to [aetoc2024@tudelft.nl](mailto:aetoc2024@tudelft.nl) by **Feb. 16, 2024**.
+Abstracts should be **sent** by email to [aetoc24@tudelft.nl](mailto:aetoc24@tudelft.nl) by **Feb. 16, 2024**.
 
 **Acceptance notification** will be communicated within **Mar. 8, 2024**.
 
