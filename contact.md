@@ -7,7 +7,7 @@ title: Contact
 
 For any inquiries regarding the conference, please feel free to contact us:
 
-- **Email:** [aetoc2024@tudelft.nl](mailto:aetoc2024@tudelft.nl)
+- **Email:** [aetoc24@tudelft.nl](mailto:aetoc24@tudelft.nl)
 
 <p align="center">
   <a href="https://www.tudelft.nl/" target="_blank">
