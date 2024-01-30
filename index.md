@@ -12,7 +12,7 @@ The 13th International Workshop ‘’Application of Electrochemical Techniques 
 {: .box-success}
 # Call for abstracts [open]({{ site.baseurl }}{% link registration.md %})!
 
-Abstracts should be **sent** by email to [aetoc2024@tudelft.nl](mailto:aetoc2024@tudelft.nl) by **Feb. 16, 2024**. **Acceptance notification** will be communicated within **Mar. 8, 2024**.
+Abstracts should be **sent** by email to [aetoc24@tudelft.nl](mailto:aetoc24@tudelft.nl) by **Feb. 16, 2024**. **Acceptance notification** will be communicated within **Mar. 8, 2024**.
 
 AETOC workshop has been organized every two years and took place previously in Val di Fiemme (Italy), Schliffkopf (Germany), Jurata (Poland), Sintra (Portugal), Villard de Lans (France), Bayona (Spain), Grado (Italy), Mons (Belgium), Emmetten (Switzerland), Ile de Ré (France), Billerbeck (Germany), and Valencia (Spain). We'll host this year's workshop in [Egmond aan Zee](https://en.wikipedia.org/wiki/Egmond_aan_Zee){:target="_blank"}, the Netherlands.
 
