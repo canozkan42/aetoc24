@@ -24,8 +24,6 @@ We kindly request to use only the abstract template available below.
 
 AETOC 2024 has reserved a limited number of rooms at the workshop venue hotel [Strandhotel Golfzang](https://www.golfzang.nl/nl/){:target="_blank"}. We highly recommend that you register at your earliest convenience to secure a room.
 
-**The registration form will be online from 16 February.**
-
 <a href="https://www.aanmelder.nl/aetoc2024workshop" target="_blank" style="background-color: #4AA3D2; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Registration</a>
 
 The registration fee includes:
@@ -45,7 +43,6 @@ Accompanying person: please be aware that in the registration form will not be p
 
 Abstract Submission:  16 Feb. 2024  
 Abstract Acceptance Notification: 8 Mar. 2024  
-Registration: 16 Feb. 2023 - 31 Mar. 2024  
 Publication of Final Program: 15 Apr. 2024
 
 Kindly notice: no onsite registration or payment will be accepted.   
