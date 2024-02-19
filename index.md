@@ -14,7 +14,7 @@ The 13th International Workshop ‘’Application of Electrochemical Techniques 
 
 ## Extended deadline for abstract submission!
 
-Abstracts should be **sent** by email to [aetoc24@tudelft.nl](mailto:aetoc24@tudelft.nl) by ~~**Feb. 16, 2024**~~ the extended deadline **Feb. 29, 2024**. 
+Abstracts should be **sent** by email to [aetoc24@tudelft.nl](mailto:aetoc24@tudelft.nl) by ~~**Feb. 16, 2024**~~ the extended deadline **Mar. 1, 2024**. 
 
 **Acceptance notification** will be communicated within **Mar. 8, 2024**.
 
