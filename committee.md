@@ -36,4 +36,8 @@ Deborah Dongor <sup>1</sup> <br><br>
   <a href="https://www.elsevier.com/" target="_blank">
     <img alt="Logo Elsevier" src="https://www.aetoc24.com/assets/img/Elsevier_logo.png" height="100px">
   </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.nwo.nl/en" target="_blank">
+    <img alt="Logo NWO" src="https://www.aetoc24.com/assets/img/NWO_logo.jpg" height="100px">
+  </a>
 </p>
