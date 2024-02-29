@@ -18,7 +18,7 @@ title: Programme
 **09.00-13.00** Scientific communications  
 **13.00-14.00** Lunch  
 **14.00-18.00** Social program  
-**20.00** Gala Dinner  
+**20.00** Conference Dinner  
  
 ### 31 May
 **09.00-13.00** Scientific communications  
