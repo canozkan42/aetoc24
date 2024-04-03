@@ -42,3 +42,13 @@ Deborah Dongor <sup>1</sup> <br><br>
     <img alt="Logo NWO" src="https://www.aetoc24.com/assets/img/NWO_logo.jpg" height="100px">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.tudelft.nl/" target="_blank">
+    <img alt="Logo EFC" src="https://www.aetoc24.com/assets/img/EFC_logo.jpg" height="100px">
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.elsevier.com/" target="_blank">
+    <img alt="Logo VIPCOAT" src="https://www.aetoc24.com/assets/img/VIPCOAT_logo.jpg" height="100px">
+  </a>
+</p>
