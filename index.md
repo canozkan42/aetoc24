@@ -7,7 +7,7 @@ subtitle: 13th International Workshop on Application of Electrochemical Techniqu
 ### 28 - 31 May 2024
 #### Egmond aan Zee, the Netherlands
 
-The 13th International Workshop ‘’Application of Electrochemical Techniques to Organic Coatings’’ (AETOC) will take place in Egmond aan Zee, the Netherlands, from May 28th to 31st, 2024.
+The 13th International Workshop ‘’Application of Electrochemical Techniques to Organic Coatings’’ (AETOC) will take place in Egmond aan Zee, the Netherlands, from May 28th to 31st, 2024 (EFC event No. 513).
 
 {: .box-success}
 # Call for abstracts [open]({{ site.baseurl }}{% link registration.md %})!
@@ -37,6 +37,16 @@ We sincerely hope to meet you in the fruitful, inspiring, and friendly atmospher
   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.nwo.nl/en" target="_blank">
     <img alt="Logo NWO" src="https://www.aetoc24.com/assets/img/NWO_logo.jpg" height="100px">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.tudelft.nl/" target="_blank">
+    <img alt="Logo EFC" src="https://www.aetoc24.com/assets/img/EFC_logo.jpg" height="100px">
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.elsevier.com/" target="_blank">
+    <img alt="Logo VIPCOAT" src="https://www.aetoc24.com/assets/img/VIPCOAT_logo.jpg" height="100px">
   </a>
 </p>
 
