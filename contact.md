@@ -23,5 +23,15 @@ For any inquiries regarding the conference, please feel free to contact us:
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.tudelft.nl/" target="_blank">
+    <img alt="Logo EFC" src="https://www.aetoc24.com/assets/img/EFC_logo.jpg" height="100px">
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.elsevier.com/" target="_blank">
+    <img alt="Logo VIPCOAT" src="https://www.aetoc24.com/assets/img/VIPCOAT_logo.jpg" height="100px">
+  </a>
+</p>
+
 
 
