@@ -27,7 +27,7 @@ Minouska Eduardo-Murray <sup>1</sup> <br>
 Deborah Dongor <sup>1</sup> <br><br>  
 
 <small><sup>1</sup> TU Delft Faculty of Mechanical Engineering, Department of Materials Science and Engineering</small><br>
-<small><sup>2</sup> TU Delft Faculty of Aerospace Engineering, Department of Aerospace Materials and Structures</small></p>
+<small><sup>2</sup> TU Delft Faculty of Aerospace Engineering, Department of Aerospace Structures and Materials</small></p>
 
 <p align="center">
   <a href="https://www.tudelft.nl/" target="_blank">
