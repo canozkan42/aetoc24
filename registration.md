@@ -31,11 +31,9 @@ The registration fee includes:
 * 3-nights accommodation at Strandhotel Golfzang, from 28 to 31 May   
 * Lunches on 29, 30, 31 May  
 * Dinners on 28 and 29 May  
-* Gala Dinner on 30 May  
+* Conference Dinner on 30 May  
 * Coffee breaks  
 * Social activities  
-* Collection of Abstracts  
-* Participant kit  
 
 Accompanying person: please be aware that in the registration form will not be possible to add any accompanying persons. Upon registration, please contact directly the hotel. The Delft University of Technology is not allowed to manage the payment of the accompanying person.
 
