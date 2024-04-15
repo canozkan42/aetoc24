@@ -2,30 +2,38 @@
 layout: page
 title: Programme
 ---
+> Updated on 15 March 2024
 
 # Scientific and Social Timetable
+
 ### 28 May  
-**14.00-18.00** Arrivals  
-**20.00** Dinner  
- 
+**15.00-18.00** Arrivals at Hotel Golfzang, Egmond aan Zee, The Netherlands  
+**18.00-19.00** Walk-in & drinks  
+**19.00-21.00** Dinner  
+
 ### 29 May
-**09.00-13.00** Scientific communications  
-**13.00-14.00** Lunch  
-**14.00-18.00** Scientific communications  
-**20.00** Dinner  
- 
+**08.30-09.15** Registration  
+**09.15-09.30** Opening  
+**09.30-12.30** Scientific communications  
+**12.30-14.00** Lunch  
+**14.00-16.30** Networking 
+**16.30-18.00** Scientific communications  
+**18.15-18.45** Social talk Jörg Vogelsang & drinks  
+**19.15-21.00** Dinner - Nautilus  
+
 ### 30 May
-**09.00-13.00** Scientific communications  
-**13.00-14.00** Lunch  
-**14.00-18.00** Social program  
-**20.00** Conference Dinner  
- 
+**09.00-12.30** Scientific communications  
+**12.30-13.30** Lunch  
+**13.30-14.30** Scientific communications  
+**15.00-19.00** Social program  
+**19.15** Dinner – Van Speijk  
+
 ### 31 May
 **09.00-13.00** Scientific communications  
-**13.00-14.00** Lunch  
-**14.00-18.00** Departures  
+**13.00-14.30** Lunch  
+**14.30** Departures
 
-Full scientific programme will be released shortly before conference.
+> Latest scientific programme can be found [here](./assets/Preliminary%20program%20AETOC%202024_15-4-2024.pdf){:target="_blank"} (PDF) 
 
 <p align="center">
   <a href="https://www.tudelft.nl/" target="_blank">
