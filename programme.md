@@ -33,7 +33,7 @@ title: Programme
 **13.00-14.30** Lunch  
 **14.30** Departures
 
-> Latest scientific programme can be found [here](./assets/Preliminary%20program%20AETOC%202024%2015-4-2024.pdf){:target="_blank"} (PDF) 
+> Latest scientific programme can be found [here](https://www.aetoc24.com/aetoc24_programme.pdf){:target="_blank"} (PDF) 
 
 <p align="center">
   <a href="https://www.tudelft.nl/" target="_blank">
