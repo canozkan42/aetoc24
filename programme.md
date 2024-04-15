@@ -16,7 +16,7 @@ title: Programme
 **09.15-09.30** Opening  
 **09.30-12.30** Scientific communications  
 **12.30-14.00** Lunch  
-**14.00-16.30** Networking 
+**14.00-16.30** Networking  
 **16.30-18.00** Scientific communications  
 **18.15-18.45** Social talk Jörg Vogelsang & drinks  
 **19.15-21.00** Dinner - Nautilus  
@@ -33,7 +33,7 @@ title: Programme
 **13.00-14.30** Lunch  
 **14.30** Departures
 
-> Latest scientific programme can be found [here](./assets/Preliminary%20program%20AETOC%202024_15-4-2024.pdf){:target="_blank"} (PDF) 
+> Latest scientific programme can be found [here](./assets/Preliminary%20program%20AETOC%202024%2015-4-2024.pdf){:target="_blank"} (PDF) 
 
 <p align="center">
   <a href="https://www.tudelft.nl/" target="_blank">
