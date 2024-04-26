@@ -11,10 +11,6 @@ The 13th International Workshop ‘’Application of Electrochemical Techniques 
 
 ## Registration has closed.
 
-<p class="box-warning">
-If you still have special interest in participating in AETOC24, please contact us by email (aetoc24@tudelft.nl) and we will explore the possibilities.
-</p>
-
 Abstracts should be **sent** by email to [aetoc24@tudelft.nl](mailto:aetoc24@tudelft.nl) by ~~**Feb. 16, 2024**~~ the extended deadline **Mar. 1, 2024**. 
 
 **Acceptance notification** will be communicated within **Mar. 8, 2024**.
