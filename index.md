@@ -20,12 +20,17 @@ The meeting falls under the auspices of the European Federation of Corrosion - W
 We sincerely hope to meet you in the fruitful, inspiring, and friendly atmosphere that has always distinguished AETOC from the other scientific conferences.
 
 <p align="center">
-  <a href="https://www.tudelft.nl/" target="_blank">
-    <img alt="Logo TUD" src="https://www.aetoc24.com/assets/img/tud_logo.jpg" height="100px">
+  <a href="https://www.akzonobel.com/en" target="_blank">
+    <img alt="Logo AkzoNobel" src="https://www.aetoc24.com/assets/img/Akzonobel-Logo.png" height="100px">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.elsevier.com/" target="_blank">
     <img alt="Logo Elsevier" src="https://www.aetoc24.com/assets/img/Elsevier_logo.png" height="100px">
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+
+  <a href="https://www.bruker.com/en.html" target="_blank">
+    <img alt="Logo Bruker" src="https://www.aetoc24.com/assets/img/1280px-Bruker-logo.jpg" height="100px">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.nwo.nl/en" target="_blank">
@@ -34,11 +39,25 @@ We sincerely hope to meet you in the fruitful, inspiring, and friendly atmospher
 </p>
 
 <p align="center">
+  <a href="https://www.biologic.net/" target="_blank">
+    <img alt="Logo Biologic" src="https://www.aetoc24.com/assets/img/biologic-2.png" height="100px">
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://www.metrohm.com/en_nl.html" target="_blank">
+    <img alt="Logo Metrohm" src="https://www.aetoc24.com/assets/img/2560px-Logo_Metrohm.svg.png" height="100px">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.tudelft.nl/" target="_blank">
+    <img alt="Logo TUD" src="https://www.aetoc24.com/assets/img/tud_logo.jpg" height="100px">
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://efcweb.org/" target="_blank">
     <img alt="Logo EFC" src="https://www.aetoc24.com/assets/img/EFC_logo.jpg" height="100px">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://www.elsevier.com/" target="_blank">
+  <a href="https://ms.hereon.de/vipcoat/" target="_blank">
     <img alt="Logo VIPCOAT" src="https://www.aetoc24.com/assets/img/VIPCOAT_logo.jpg" height="100px">
   </a>
 </p>
