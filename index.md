@@ -36,10 +36,10 @@ We sincerely hope to meet you in the fruitful, inspiring, and friendly atmospher
   <a href="https://www.nwo.nl/en" target="_blank">
     <img alt="Logo NWO" src="https://www.aetoc24.com/assets/img/NWO_logo.jpg" height="100px">
   </a>
-  &nbsp; &nbsp; &nbsp; &nbsp;
+<!--   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://efcweb.org/" target="_blank">
     <img alt="Logo EFC" src="https://www.aetoc24.com/assets/img/EFC_logo.jpg" height="100px">
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
