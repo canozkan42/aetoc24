@@ -36,25 +36,25 @@ We sincerely hope to meet you in the fruitful, inspiring, and friendly atmospher
   <a href="https://www.nwo.nl/en" target="_blank">
     <img alt="Logo NWO" src="https://www.aetoc24.com/assets/img/NWO_logo.jpg" height="100px">
   </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <a href="https://efcweb.org/" target="_blank">
+    <img alt="Logo EFC" src="https://www.aetoc24.com/assets/img/EFC_logo.jpg" height="100px">
+  </a>
 </p>
 
 <p align="center">
   <a href="https://www.biologic.net/" target="_blank">
-    <img alt="Logo Biologic" src="https://www.aetoc24.com/assets/img/biologic-2.png" height="100px">
+    <img alt="Logo Biologic" src="https://www.aetoc24.com/assets/img/biologic-2.png" height="80px">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.metrohm.com/en_nl.html" target="_blank">
-    <img alt="Logo Metrohm" src="https://www.aetoc24.com/assets/img/2560px-Logo_Metrohm.svg.png" height="100px">
+    <img alt="Logo Metrohm" src="https://www.aetoc24.com/assets/img/2560px-Logo_Metrohm.svg.png" height="80px">
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.tudelft.nl/" target="_blank">
     <img alt="Logo TUD" src="https://www.aetoc24.com/assets/img/tud_logo.jpg" height="100px">
-  </a>
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://efcweb.org/" target="_blank">
-    <img alt="Logo EFC" src="https://www.aetoc24.com/assets/img/EFC_logo.jpg" height="100px">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://ms.hereon.de/vipcoat/" target="_blank">
