@@ -21,7 +21,7 @@ We sincerely hope to meet you in the fruitful, inspiring, and friendly atmospher
 
 <p align="center">
   <a href="https://www.akzonobel.com/en" target="_blank">
-    <img alt="Logo AkzoNobel" src="https://www.aetoc24.com/assets/img/AkzoNobel_RGB.jpg" height="60px">
+    <img alt="Logo AkzoNobel" src="https://www.aetoc24.com/assets/img/AkzoNobel_RGB.jpg" height="70px">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.elsevier.com/" target="_blank">
