@@ -11,7 +11,7 @@ For any inquiries regarding the conference, please feel free to contact us:
 
 <p align="center">
   <a href="https://www.akzonobel.com/en" target="_blank">
-    <img alt="Logo AkzoNobel" src="https://www.aetoc24.com/assets/img/Akzonobel-Logo.png" height="100px">
+    <img alt="Logo AkzoNobel" src="https://www.aetoc24.com/assets/img/AkzoNobel_RGB.jpg" height="70px">
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://www.elsevier.com/" target="_blank">
@@ -51,5 +51,3 @@ For any inquiries regarding the conference, please feel free to contact us:
     <img alt="Logo VIPCOAT" src="https://www.aetoc24.com/assets/img/VIPCOAT_logo.jpg" height="100px">
   </a>
 </p>
-
-
