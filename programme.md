@@ -2,7 +2,7 @@
 layout: page
 title: Programme
 ---
-> Updated on 6 May 2024
+> Updated on 21 May 2024
 
 # Scientific and Social Timetable
 
@@ -33,7 +33,7 @@ title: Programme
 **13.00-14.30** Lunch  
 **14.30** Departures
 
-> Latest scientific programme can be found [here](https://www.aetoc24.com/AETOC_programme_030524.pdf){:target="_blank"} (PDF) 
+> Latest scientific programme can be found [here](https://www.aetoc24.com/aetoc_programme_0521.pdf){:target="_blank"} (PDF) 
 
 <p align="center">
   <a href="https://www.akzonobel.com/en" target="_blank">
